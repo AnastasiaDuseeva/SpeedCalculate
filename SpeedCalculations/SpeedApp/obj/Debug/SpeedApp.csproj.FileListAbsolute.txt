@@ -1,0 +1,14 @@
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\bin\Debug\SpeedApp.exe.config
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\bin\Debug\SpeedApp.exe
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\bin\Debug\SpeedApp.pdb
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\bin\Debug\SpeedCalculations.dll
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\bin\Debug\SpeedCalculations.pdb
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.csproj.AssemblyReference.cache
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.Form1.resources
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.Properties.Resources.resources
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.csproj.GenerateResource.cache
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.csproj.Up2Date
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.exe
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.pdb
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedApp\obj\Debug\SpeedApp.exe.config

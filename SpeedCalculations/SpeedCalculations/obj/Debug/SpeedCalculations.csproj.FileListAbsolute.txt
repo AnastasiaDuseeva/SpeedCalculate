@@ -1,0 +1,9 @@
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\bin\Debug\SpeedCalculations.pdb
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\obj\Debug\SpeedCalculations.csproj.AssemblyReference.cache
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\obj\Debug\SpeedCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\obj\Debug\SpeedCal.9EBDE5CB.Up2Date
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\obj\Debug\SpeedCalculations.dll
+C:\Users\Anastasia\source\repos\SpeedCalculations\SpeedCalculations\obj\Debug\SpeedCalculations.pdb
