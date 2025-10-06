@@ -22,7 +22,6 @@ namespace SpeedApp
         {
             textBoxResult.Clear();
 
-            // Определяем, какие поля заполнены
             bool hasDistance = !string.IsNullOrWhiteSpace(textBoxDistance.Text);
             bool hasTime = !string.IsNullOrWhiteSpace(textBoxTime.Text);
             bool hasSpeed = !string.IsNullOrWhiteSpace(textBoxSpeed.Text);
@@ -89,3 +88,4 @@ namespace SpeedApp
         }
     }
 }
+
